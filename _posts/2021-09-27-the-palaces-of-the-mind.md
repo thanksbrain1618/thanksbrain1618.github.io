@@ -2,7 +2,7 @@
 layout: post
 title:  "The Palaces Of The Mind"
 categories: Brain
-tags: Brain Kurpatov
+tags: Brain Books
 mathjax: true
 ---
 

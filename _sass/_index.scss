@@ -148,6 +148,12 @@
             }
         }
     }
+    .text-right {
+        float: right;
+    }
+    .text-left {
+        float: left;
+    }
 }
 @media screen and (max-width: 770px) {
     .page[index] {
