@@ -5,7 +5,6 @@ categories: Brain
 tags: Brain Biology
 mathjax: true
 ---
-__
 * content
 {:toc}
 
