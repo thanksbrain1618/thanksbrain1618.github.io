@@ -56,7 +56,9 @@ Topics:
      
   That's why a person should use consciousness to navigate a lazy but powerful brain.
   Probably you are unique and can control your mind. If so, try not to thing about white monkey for
-  20 seconds.
+  20 seconds. Interesting fact, if you have the same task in different language and can not clearly 
+  translate and imagine the object you are able to not think about it. It shows that speech is not the basic
+  knowledge of our brain?
 - Working process:
   1) When brain can't find quick template/solution that bothers it.
   2) At that time you are easy to interrupt.
@@ -69,3 +71,4 @@ Do philosophy books work the same being monologue?
 
 ## Conclusion
 You can read more about all this things in the book.
+Мне нужно загрузить в мозг две основные картины с самых основ:

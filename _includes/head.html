@@ -14,7 +14,11 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml " | prepend: site.baseurl | prepend: site.url }}">
 
-{% if site.baidu_tongji_id %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+
+    {% if site.baidu_tongji_id %}
     <script>
     // 百度统计代码
     var _hmt = _hmt || [];
