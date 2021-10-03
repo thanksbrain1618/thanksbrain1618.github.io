@@ -2,7 +2,6 @@
 layout: post
 title:  "Extra Tips Handbook"
 tags: Tips English Blogging Handbook
-mathjax: true
 ---
 
 * content
@@ -19,9 +18,11 @@ Extra information about learning process, learning english, blogging.
 - **Build a knowledge graph** for learning from basic to advanced knowledge. 
   Your brain will be able to build a complete picture of knowledge since everything is interconnected;
 - **Set deadlines**. You should be careful with that. Do not put too much pressure on yourself.
+  It is better slowly go forward rather than rush and stop abruptly.
   You can ask someone you trust to help you with controlling and setting deadlines.
 - **Surround yourself with people with the same goals and ideas** (Great example: [Einstein's Olympia Academy](https://en.wikipedia.org/wiki/Olympia_Academy));
 - **Find hobbies** to rest and recover between lessons.
+- **Develop 1-6 month curriculum plans**. Do not make long ones, because it will scare you.
 
 ## English tips
 - **Learn new words** [by cards](https://www.youtube.com/watch?v=LMLJ6tUws14);
@@ -40,3 +41,7 @@ Extra information about learning process, learning english, blogging.
     3. End with relevant links to further information on the topic.
 - Write about **one thousand words**;
 - **Each subsection needs to transition the reader from one idea to the next**.
+
+## Some links
+- [Many good thoughts](https://jasonbenn.com/)
+- [Learn how to learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)

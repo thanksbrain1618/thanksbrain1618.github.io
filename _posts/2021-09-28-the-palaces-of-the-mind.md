@@ -3,7 +3,6 @@ layout: post
 title:  "The Palaces Of The Mind"
 categories: Brain
 tags: Books Psychology
-mathjax: true
 ---
 
 * content 
@@ -70,5 +69,5 @@ with complex characters.
 Do philosophy books work the same being monologue? 
 
 ## Conclusion
-You can read more about all this things in the book.
-Мне нужно загрузить в мозг две основные картины с самых основ:
+You can read more about all these things in the book.
+Мне нужно загрузить в мозг две основные картины с самых основ.

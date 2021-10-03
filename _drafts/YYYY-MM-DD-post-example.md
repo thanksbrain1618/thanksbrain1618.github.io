@@ -4,7 +4,7 @@ title:  "Blog Beginning"
 categories: DataScience Brain English
 tags: DataScience Brain English
 mathjax: true
-author: tb
+author: bci
 ---
 
 * content

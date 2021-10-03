@@ -1,8 +1,7 @@
 ---
 layout: post 
 title:  "Presentation Of The Goals"
-categories: DataScience Brain English 
-mathjax: true
+categories: DataScience Brain English
 ---
 
 * content 
