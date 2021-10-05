@@ -126,7 +126,7 @@ The huge mistake is doing the same things and wait for another results.
 - [6 learning tips](https://www.mrdbourke.com/6-techniques-which-help-me-study-machine-learning-five-days-per-week/)
 - [Learning cheatsheet](https://jasonbenn.com/Learning-37d51b014a224082a0f7cf923343dc46)
 - [Execution cheatsheet](https://jasonbenn.com/Execution-4b6f8849b01e4da4bd274469abcf8087)
-
+- [Learning how to learn course](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
 
 
 # Curriculum Template
