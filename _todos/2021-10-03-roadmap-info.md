@@ -18,7 +18,8 @@ Set yourself up with a curriculum.
 ### 2. Fix your environment. Enrich it with the right people.
 
 Remove all distractions during lessons time. Surround yourself with people with the same goals as yours.
-(Great example: [Einstein's Olympia Academy](https://en.wikipedia.org/wiki/Olympia_Academy));
+Study groups can be powerfully effective for learning, but if study sessions turn into socializing occasions, all bets are off.
+(Great example: [Einstein's Olympia Academy](https://en.wikipedia.org/wiki/Olympia_Academy)).
 
 ### 3. Force yourself to start
 
@@ -129,6 +130,8 @@ Start building flexibility and creativity. It's where you leave the world of pra
 and begin thinking more independently. For my purposes, I should interleave Data Science, Brain Sciences (math, biology, etc), and English.
 
 ### 21. Eat the biggest frog first
+
+### 22. Metaphors and visualisation for learning
 
 
 
