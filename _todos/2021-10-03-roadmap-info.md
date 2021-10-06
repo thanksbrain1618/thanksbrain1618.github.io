@@ -15,7 +15,7 @@ categories: Learning
 There’s no shortage of learning resources. Having too many options is the same as having no options.
 Set yourself up with a curriculum.
 
-### 2. Fix your environment
+### 2. Fix your environment. Enrich it with the right people.
 
 Remove all distractions during lessons time. Surround yourself with people with the same goals as yours.
 (Great example: [Einstein's Olympia Academy](https://en.wikipedia.org/wiki/Olympia_Academy));
@@ -43,10 +43,10 @@ Poor sleep means poor studying. Don’t trade sleep for more study time. Do the 
 
 Play with numbers to find what suits you the most. (0:30/0:05; 1:00/0:10; 1:30/0:20) During the rest do something you enjoy: talking with your friends, drinking some tea, etc;
 
-### 7. Build knowledge graph
+### 7. Build knowledge graph. Zooming out first, then diving deep
 
 For learning from basic to advanced knowledge. 
-Your brain will be able to build a complete picture of knowledge since everything is interconnected;
+Your brain will be able to build a complete picture of knowledge since everything is interconnected.
 
 ### 8. Set deadlines
 
@@ -56,7 +56,24 @@ You can ask someone you trust to help you with controlling and setting deadlines
 
 ### 9. Only dumb devices near bed
 
-### 10. Zooming out first, then diving deep
+### 10. Fight with procrastination
+
+1) It's perfectly normal to start with a few negative feelings about beginning a learning session. 
+   It's how you handle those feelings that matters. Say to yourself smth like 
+   "**Once you get going, you'll feel better about it**".
+2) **Concentrate on the process** (studying, reading), not on the product (homework done, complex test solved). 
+   And relax into the flow of the work.
+3) Use **pomodoro technique** (25 minutes sessions with 5 minutes breaks). Put forth your best effort for a short period.
+4) **Develop a plan**. Plan your quiting time as well! **Keep a planner journal**. If you don't write your tasks down, they can lurk 
+at the edge of the four or so slots in your working memory, taking up valuable mental real estate.
+
+Procrastination includes:
+- The cue. To fix you should work on reactions at the cue.
+- The routine. To fix you should develop a plan. It may not work properly at first but just keep at it. 
+  Savor victories when your plan works.
+- The reward. To fix you should reward yourself better after studying/working time. 
+  **Trust your new system and when it comes to relax do it without feeling guilty or worry**.
+- The belief. To fix you can develop a new community that enjoys studying/working.
 
 ### 11. Spaced repetition
 
@@ -80,6 +97,40 @@ and busy themselves instead with the least important 80 percent that contribute 
 Ask yourself: If you could only accomplish one of the goals on that list today, which one goal would have the greatest positive impact on your life?
 Then pick the second most important goal. **Eat the biggest frog first**. 
 Before you begin work, always ask yourself, “**Is this task in the top 20 percent of my activities** or in the bottom 80 percent?”
+
+### 16. Practice/Repeating makes permanent
+
+Repeating/Practicing something you build a strong neural network in your brain to solve this next time. 
+Even for bad habits/patterns.
+
+### 17. What have been done / Control assessment
+
+Write a blog post or conduct a control assessment of new skills you've got after curriculum.
+The best way to learn is not rereading the book but trying to **recall from the material you've just read**. 
+The "recall" is a very powerful tool! You can even try to recall outside after learning.
+
+### 18. Chunking
+
+1) Eliminate distracting
+2) Understand the basic idea you are trying to chunk. 
+   Only doing it yourself helps create the neural patterns
+3) Understand the context. Practice. Not just how but also when to use or not to use. 
+   You should mix "top down learning" (big picture) with "bottom up learning" (chunking).
+   Try to do rapid picture/heading walk through next chapter of the book you are studying. It'll help
+   you to see connections between ideas at the beginning.
+
+### 19. Deliberate practice
+
+Focus on the more difficult material instead of repeat easy one thousand times.
+
+### 20. Interleaving between subjects
+
+Start building flexibility and creativity. It's where you leave the world of practice and repetition, 
+and begin thinking more independently. For my purposes, I should interleave Data Science, Brain Sciences (math, biology, etc), and English.
+
+### 21. Eat the biggest frog first
+
+
 
 ## Believes
 
@@ -110,6 +161,15 @@ The huge mistake is doing the same things and wait for another results.
 ### 7. Zero distractions
 
 ### 8. Dream big dreams
+
+### 9. Anxious affects brain in negative way
+
+When you are stressed your attentional octopus begins to lose the ability to make some connections.
+
+### 10. Illusions of competence
+
+Merely glancing at the solution and thinking you truly know it yourself is one of 
+the most common illusions of competence in learning. Try to do fewer highlights and underlying.
 
 
 ## Anti-patterns

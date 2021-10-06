@@ -52,4 +52,5 @@ They have done plenty of things for you. Give them back twice of that.
 ### Conclusion
 
 Do not get distracted by unimportant things that culture trying to impose on you. 
-Focus your brain on your goal, and you will achieve this goal.
+Focus your brain on your goal, and you will achieve this goal. Success is that passion and persistence,
+of really staying the course, staying working on it, and, not letting go. Not giving up.
