@@ -6,7 +6,82 @@ categories: Learning
 
 * content
 {:toc}
-  
+
+
+
+
+# Schedule
+
+
+## Planning
+
+**Every working day**:
+- Learning set (see below)
+
+**Every evening**:
+- Move some TODOs from weekly to today's to solve them the next day;
+- Put space repetition cards in suitable places.
+
+**Every sunday**:
+- Write weekly TODOs.
+
+
+##  Learning
+
+4-5 sets of 4 sessions pomodoro(**25 minutes focusing**, 5 minutes break) and 30 minutes breaks per day.
+
+4 * 4 * (25 + 5) + 3 * 30 = 570 minutes total.
+
+9 hours 30 minutes total: **6 hours 40 minutes of focused learning** and 2 hours 50 minutes of rest.
+
+
+**Short breaks**:
+- Wash dishes, clean house;
+- Hang on the horizontal bar;
+- Short gymnastics for body;
+- Short gymnastics for eyes.
+
+**Long breaks**:
+- 45 minutes **Music / Walk / Run**;
+- 30 minutes **Drink tea / Eat food / Take a nap**;
+- 15 minutes **Neck gymnastic**;
+
+Trial version:
+
+**session - walk/run/music - session - food/tea - session - neck - session**
+
+## Lesson steps
+1. **Walk through** a learning chapter rapidly. Take a glance at pictures, headings, notes, etc.;
+2. **Carefully read** a chapter. While reading, make as few notes/highlights as you can;
+3. **Recall** everything or main ideas you want to remember;
+4. **Solve a problem using new knowledge**.
+   (if you watch someone solves the problem, even though you understand a solution, you should solve it by yourself);
+5. **Write a blog piece** about gained knowledge or **Discuss with teammates**;
+6. **Recall again** a week or half a week later. Sometimes **Recall during the walk or run**. 
+
+Items 3-6 allow you to **test yourself**, which is SIGNIFICANT for your learning. (1 hour of testing > 1 hour of reading)
+
+
+# Curriculum Template
+
+## Curriculum №# [**from --- to**]
+
+Goal | Status | &nbsp;&nbsp;&nbsp;Deadline&nbsp;&nbsp;&nbsp;
+---|:---:|:---:|
+Goal Name1 | 📌 / 🧐 / ✅ / 📆 / 🗑 | YYYY-MM-DD
+Goal Name2 | 📌 / 🧐 / ✅ / 📆 / 🗑 | YYYY-MM-DD
+
+**Final project**: Description
+
+___
+
+Statuses:
+- 📌 - TODO
+- 🧐 - IN PROGRESS
+- ✅ - DONE
+- 📆 - REPETITIVE
+- 🗑 - REMOVED
+
 
 ## Practices
 
@@ -190,24 +265,3 @@ the most common illusions of competence in learning. Try to do fewer highlights 
 - [Learning cheatsheet](https://jasonbenn.com/Learning-37d51b014a224082a0f7cf923343dc46)
 - [Execution cheatsheet](https://jasonbenn.com/Execution-4b6f8849b01e4da4bd274469abcf8087)
 - [Learning how to learn course](https://www.coursera.org/learn/learning-how-to-learn/home/welcome)
-
-
-# Curriculum Template
-
-## Curriculum №# [**from --- to**]
-
-Goal | Status | &nbsp;&nbsp;&nbsp;Deadline&nbsp;&nbsp;&nbsp;
----|:---:|:---:|
-Goal Name1 | 📌 / 🧐 / ✅ / 📆 / 🗑 | YYYY-MM-DD
-Goal Name2 | 📌 / 🧐 / ✅ / 📆 / 🗑 | YYYY-MM-DD
-
-**Final project**: Description
-
-___
-
-Statuses:
-- 📌 - TODO
-- 🧐 - IN PROGRESS
-- ✅ - DONE
-- 📆 - REPETITIVE
-- 🗑 - REMOVED
