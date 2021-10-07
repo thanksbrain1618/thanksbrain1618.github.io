@@ -42,13 +42,13 @@ categories: Learning
 - Short gymnastics for eyes.
 
 **Long breaks**:
-- 45 minutes **Music / Walk / Run**;
-- 30 minutes **Drink tea / Eat food / Take a nap**;
+- 45 minutes **Walk / Run / Take a nap**;
+- 30 minutes **Drink tea / Eat food / Music**;
 - 15 minutes **Neck gymnastic**;
 
 Trial version:
 
-**session - walk/run/music - session - food/tea - session - neck - session**
+**session - 15mins - session - 30mins - session - 45mins - session**
 
 ## Lesson steps
 1. **Walk through** a learning chapter rapidly. Take a glance at pictures, headings, notes, etc.;
