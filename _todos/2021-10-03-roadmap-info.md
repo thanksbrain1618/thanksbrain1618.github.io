@@ -68,8 +68,8 @@ Items 3-6 allow you to **test yourself**, which is SIGNIFICANT for your learning
 
 Goal | Status | &nbsp;&nbsp;&nbsp;Deadline&nbsp;&nbsp;&nbsp;
 ---|:---:|:---:|
-Goal Name1 | 📌 / 🧐 / ✅ / 📆 / 🗑 | YYYY-MM-DD
-Goal Name2 | 📌 / 🧐 / ✅ / 📆 / 🗑 | YYYY-MM-DD
+Goal Name1 | 📌 / 🧐 / ✅ / 📆 / 🗑 / ❌ | YYYY-MM-DD
+Goal Name2 | 📌 / 🧐 / ✅ / 📆 / 🗑 / ❌ | YYYY-MM-DD
 
 **Final project**: Description
 
@@ -81,7 +81,7 @@ Statuses:
 - ✅ - DONE
 - 📆 - REPETITIVE
 - 🗑 - REMOVED
-
+- ❌ - FAILED
 
 ## Practices
 
